@@ -31,7 +31,7 @@ My enterprise work also includes a full-stack content security risk platform com
 
 I use AI development tools throughout my work and take responsibility for requirements, technical decisions, validation, and the resulting user experience.
 
-## Lets connect
+## Let's connect
 
 Interested in conversations about **technical program management, AI enablement, and enterprise operations**.
 
