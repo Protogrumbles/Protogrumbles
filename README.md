@@ -7,7 +7,7 @@ I lead cross-functional programs and build tools that make complex work easier t
 
 ## Selected impact
 
-- **500 hours recovered monthly and an estimated $2.3M in annual business value** through a network operations program I rebuilt and led across five organizations. Estimates use internal workforce time-loss and production-disruption calculations.
+- **~600 hours recovered monthly and an estimated $2.5M in annual business value** through a network operations program I rebuilt and led across five organizations. Estimates use internal workforce time-loss and production-disruption calculations.
 - **$60K in annual SaaS savings** through software selection and discontinued renewals.
 - **90% adoption within a production management pod** after product enhancements I advocated for were implemented.
 
@@ -31,7 +31,7 @@ My enterprise work also includes a full-stack content security risk platform com
 
 I use AI development tools throughout my work and take responsibility for requirements, technical decisions, validation, and the resulting user experience.
 
-## Let's connect
+## Lets connect
 
 Interested in conversations about **technical program management, AI enablement, and enterprise operations**.
 
