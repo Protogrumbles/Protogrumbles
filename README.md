@@ -10,7 +10,7 @@ I lead cross-functional programs and build tools that make complex work easier t
 ## Selected impact
 
 - **~600 hours recovered monthly and an estimated $2.5M in annual business value** through a network operations program I rebuilt and led across five organizations. Estimates use internal workforce time-loss and production-disruption calculations.
-- **Operating-model redesign for a 600-person organization, commissioned by a senior director** — responsibilities, accountability, and consultation flows across teams, regional directors, and senior leadership, shifting high-volume execution to AI-enabled workflows.
+- **Operating-model redesign for a 180-person organization, commissioned by a senior director** — responsibilities, accountability, and consultation flows across teams, regional directors, and senior leadership, shifting high-volume execution to AI-enabled workflows.
 - **$60K in annual SaaS savings** through software selection and discontinued renewals.
 - **90% adoption within a production management pod** after product enhancements I advocated for were implemented.
 
@@ -21,7 +21,7 @@ I lead cross-functional programs and build tools that make complex work easier t
 | **R.U.N.E.** | A visual command center for AI-assisted development across repositories. Makes agent activity, handoffs, and development evidence easier to inspect through a playable interface. Independent project in active development; implementation remains private. | [Project overview](showcases/RUNE.md) |
 | **RAILGUARD** | A reusable Cursor rule framework for structured AI-assisted security review: evidence, severity, false-positive assessment, and remediation guidance. | [Public repository](https://github.com/Protogrumbles/Rail-Guard) |
 | **Cursor Skills and More** | AI-assisted development workflow: MCP server configs and the AI Systems Explorer graph visualizer (React, TypeScript, Vite, React Flow). | [Public repository](https://github.com/Protogrumbles/Cursor-Skills-and-More) |
-| **Content-security risk platform** | A full-stack content-security risk platform across ~57 productions, integrating 5+ enterprise systems, with retrieval-grounded context and LLM summaries. Employer implementation — not published. | — |
+| **Content-security risk platform** | A full-stack content-security risk platform across ~57 productions, integrating 6+ enterprise systems, with retrieval-grounded context and LLM summaries. Employer implementation — not published. | — |
 
 My enterprise work also includes a full-stack content security risk platform combining information from multiple systems with retrieval-grounded context and LLM summaries. Employer and client implementations are not published here.
 
